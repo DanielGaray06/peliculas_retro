@@ -51,6 +51,4 @@ Los archivos de diseño están en la raíz del repositorio:
 
 HTML5, CSS3 y JavaScript (vanilla). Sin frameworks ni gestores de paquetes.
 
-## Autor
 
-[@migue-u](https://github.com/migue-u)
